@@ -76,5 +76,28 @@ The following instructions are to clone and run any code or notebook contained i
 
 In this section, you will find all the links used to prepare the tasks and the project.  
 
+### Project  
+
+https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html  
+https://github.com/vincentarelbundock/Rdatasets/tree/master  
+https://www.investopedia.com/terms/t/t-test.asp 
+........to be added ...........
+
+
+### Tasks  
+
+https://numpy.org/devdocs/reference/generated/numpy.arange.html  
+https://numpy.org/doc/stable/reference/generated/numpy.prod.html 
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html  
+https://numpy.org/devdocs/reference/generated/numpy.linspace.html  
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html#numpy-random-normal  
+https://docs.python.org/3/library/warnings.html#warnings.filterwarnings  
+https://www.investopedia.com/terms/t/t-test.asp  
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html#ttest-rel  
+https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000461 [1]  
+https://pubmed.ncbi.nlm.nih.gov/30646252/ [2]
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html  
+https://www.qualtrics.com/experience-management/research/anova/  
+
 
 
