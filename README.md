@@ -78,10 +78,14 @@ In this section, you will find all the links used to prepare the tasks and the p
 
 ### Project  
 
+https://vincentarelbundock.github.io/Rdatasets/articles/data.html [1]  
 https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html  
 https://github.com/vincentarelbundock/Rdatasets/tree/master  
-https://www.investopedia.com/terms/t/t-test.asp 
-........to be added ...........
+https://www.investopedia.com/terms/t/t-test.asp  
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html#ttest-rel  
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html  
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html  
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html   
 
 
 ### Tasks  
